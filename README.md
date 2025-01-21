@@ -1,3 +1,4 @@
+# **Tree's carbon intake from a patch of land model**
 This model is used to evaluate carbon absrobtion from a patch of a land with tree growth, as well as the biomass and the amount and year it tooks to
 cultivate carbon absorbtion, with multiple models from simpler ones like constant growth and stochasic growth model , to more complicated models
 that take into account the percentile carbon yeild from multiple runs and more.
